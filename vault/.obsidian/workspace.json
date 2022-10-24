@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "858166a7aa233419",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8142a18a01fdc3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6559c176d55c960a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monte Carlo Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54b1a0c37369a82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "on-policy-methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b769bd8b27e2da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big TODO's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1fd93f847d79376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expected SARSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba931bc68a7922d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First-visit Monte Carlo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fcfd705b3f51dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iterative Policy Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c33bd6cdfa18ee9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "043f54e89067afa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5edfa74effaab9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910b1c28845e4054",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Alternatives ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9fb596a8e87a335",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "46368a149484dcb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3cd97a49184cc32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5bb1be003e4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Big TODO's.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "policy",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "028cd994f1209188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Big TODO's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c65aa625795c9619",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72a75334fd474011",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Big TODO's.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8b769bd8b27e2da4",
+  "lastOpenFiles": [
+    "Monte Carlo Methods.md",
+    "exploration.md",
+    "off-policy-methods.md",
+    "Big TODO's.md",
+    "Importance Sampling.md",
+    "Expected SARSA.md",
+    "Bootstrapping Methods.md",
+    "of.md",
+    "N-step SARSA.md",
+    "continous tasks.md"
+  ]
+}
